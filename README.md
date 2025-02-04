@@ -1,3 +1,3 @@
 Two brnaches:
 - Kaggle - kaggle tasks
-- Zadania - PoLP tasks
+- Zadania - PuLP tasks
